@@ -1,0 +1,4 @@
+interface:
+  display_name: "莫奈印象派绘画"
+  short_description: "按光照时刻组织色彩、笔触与倒影，在合适题材中主动体现莫奈的具体特征"
+  default_prompt: "使用 $monet-impressionism 将我的主题转为原创印象派画作，选择合适的莫奈特征，设计光色关系、笔触和空间，再生成图像并交付实际提示词。"

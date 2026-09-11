@@ -1,0 +1,4 @@
+interface:
+  display_name: "艺术风格元技能"
+  short_description: "从原作观察与成图反馈中，构建可独立执行和持续修正的艺术风格技能"
+  default_prompt: "使用 $art-style-skill-builder 研究指定艺术家的视觉语言，建立独立风格 Skill，并在已授权范围内用新题材验证。"
