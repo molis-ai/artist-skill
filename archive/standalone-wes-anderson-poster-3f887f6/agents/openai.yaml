@@ -1,0 +1,4 @@
+interface:
+  display_name: "韦斯·安德森海报"
+  short_description: "以端正机位、复古美术、电影色板和克制情境，创作韦斯式海报与叙事场景"
+  default_prompt: "使用 $wes-anderson-poster，把我提供的照片或文字做成一张韦斯·安德森风格海报。"
