@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>cover</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      width: 1080px;
+      height: 1440px;
+      overflow: hidden;
+      background: #f3ebe3;
+    }
+    .cover {
+      position: relative;
+      width: 1080px;
+      height: 1440px;
+      background: url("base.jpg") center / cover no-repeat;
+    }
+    .wash {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 430px;
+      background: linear-gradient(
+        180deg,
+        rgba(247, 240, 232, 0.92) 0%,
+        rgba(247, 240, 232, 0.78) 55%,
+        rgba(247, 240, 232, 0) 100%
+      );
+    }
+    .copy {
+      position: absolute;
+      top: 78px;
+      left: 72px;
+      right: 72px;
+      text-align: center;
+      color: #2a211c;
+    }
+    .eyebrow {
+      font-family: "PingFang SC", "Hiragino Sans GB", "Heiti SC", sans-serif;
+      font-weight: 500;
+      font-size: 26px;
+      letter-spacing: 0.42em;
+      text-indent: 0.42em;
+      color: #b0766a;
+      margin-bottom: 28px;
+    }
+    .title {
+      font-family: "PingFang SC", "Hiragino Sans GB", "Heiti SC", sans-serif;
+      font-weight: 600;
+      font-size: 92px;
+      line-height: 1.18;
+      letter-spacing: 0.04em;
+    }
+    .title .en {
+      font-family: "Avenir Next", "Futura", "PingFang SC", sans-serif;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      font-size: 78px;
+    }
+    .rule {
+      width: 72px;
+      height: 4px;
+      background: #c48b7a;
+      margin: 22px auto 0;
+      border-radius: 2px;
+    }
+  </style>
+</head>
+<body>
+  <div class="cover">
+    <div class="wash"></div>
+    <div class="copy">
+      <div class="eyebrow">ARTIST SKILLS</div>
+      <div class="title">
+        让任何艺术家<br />住进你的<span class="en"> Codex</span>!
+      </div>
+      <div class="rule"></div>
+    </div>
+  </div>
+</body>
+</html>
