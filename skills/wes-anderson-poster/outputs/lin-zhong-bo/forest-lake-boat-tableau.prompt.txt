@@ -1,0 +1,30 @@
+Use case: ads-marketing.
+Create one original Wes Anderson-style CINEMA POSTER, portrait 2:3, exact Chinese title "林中泊". Primary subject: forest, lake, one rowboat.
+
+CRITICAL ART DIRECTION:
+Make the Wes Anderson visual authorship unmistakable in the SCENE ITSELF: a rigorously composed frontal tableau, exact central axis, theatrical framing, deliberately coordinated painted colors, a poised and quietly peculiar stillness. Treat the location as a carefully dressed full-scale film set photographed by a cinematographer. Do not turn this into ordinary picturesque nature photography. This is a live-action storybook world whose physical materials remain real, not an illustration or toy render.
+
+REFERENCE ROLES:
+Image 1, the lookout scene: borrow its assertively frontal centered composition, cool-versus-warm color blocking, physical set construction, and poised theatrical mood. Do not copy the person, lookout structure, binoculars or railing.
+Image 2, the red office: borrow the deliberate geometry and art-directed color relationships of real materials. Do not copy any furniture.
+Image 3, the multi-poster screenshot: borrow the finished cinema-poster integration of scene and crafted title. Do not copy actors, movie titles, billing, logos, webpage labels or card frames.
+
+SCENE AND GEOMETRY:
+Photograph a forest lake like a tiny solemn stage. A single vintage wooden rowing boat faces the viewer EXACTLY BOW-ON on the central vertical axis, not diagonally or from its side. The camera is fixed and level, normal-to-slightly-long 65mm-equivalent, looking slightly down just enough to reveal the real depth of the boat's interior. The near bow is centered around the lower quarter and the boat extends away from the viewer toward the middle of the composition. It is a substantial main character, approximately 40% of poster width. Its left and right pale wooden oars rest horizontally in their oarlocks at equal angles like a ceremoniously arranged pair; their shafts and blades are physically supported, not levitating.
+The forest forms two deliberately balanced wings: tall real pine trunks and natural branches close to the left and right frame edges, like theatrical curtains around a clear central stretch of lake. The far tree line is a composed horizontal band across the middle distance. Individual trees have different branch contours, foliage, height and overlap; make the geometry deliberate without duplicating identical tree assets. Keep every element legible and intentionally placed.
+Use compressed but CLEAR spatial depth: foreground bow and nearby ripples, middle lake and receding forest edges, far tree line and the open sky beyond. No grand mountain panorama or sprawling golden-hour vista. There are no people, houses, tents, animals, extra boats or added narrative props. The paired oars, immaculately prepared empty boat and ceremonious arrangement carry the quiet oddness.
+
+PRODUCTION DESIGN AND COLOR:
+The wooden boat has beautifully maintained MATTE CORAL-VERMILION painted outer planks, pale butter-cream gunwales and warm honey-colored exposed timber seats. The paint follows real joined wood; faint grain, seams, worn edges and shaded curvature remain visible.
+The lake is a saturated but sophisticated peacock-blue / blue-green family, with real changing reflections and optical ripples, visibly distinct from the dark bottle-green and olive foliage. Forest shadows retain deep green detail. The open upper sky is a clear pale apricot/cream family with a very subtle cool atmospheric transition, not a photoreal postcard blue and not a flat artificial gradient. Warm coral, pale butter, peacock lake and deep green forest form large unmistakable designed color relationships. Color is vivid and controlled, not neon, muddy sepia or an overall teal wash. No generic brown unpainted-boat-on-gray-water palette.
+The upper central opening between the trees provides a clean title region. No white title banner, no frame, no separate graphic panel.
+
+PHOTOGRAPHY AND LIGHT:
+This is real-looking live-action film photography of an arranged physical scene, not naturalistic random composition. Diffused warm daylight from upper camera-left with gentle cool fill, controlled contrast, luminous color, no dramatic sunset beams. The bow has a clear lit face, turning planes and shaded underside; benches and inner planks show dimensional form. Real waterline, subtle hull displacement and small spreading ripples, a broken coral reflection beneath the boat. The pine trunks have convincing bark; dense foliage has real optical texture, varying occlusion and light, not smooth plastic pine cones. Gentle optical grain, no distressed paper, heavy vignette or painterly surface. Preserve dimensional reality while arranging the picture into strong flat graphic masses.
+
+TITLE ART:
+Exactly "林中泊", once, one horizontal title group in the upper central sky opening. Around 43% poster width, 9% poster height. Draw a refined custom Chinese film-title wordmark for this setting: tall slender proportions, open interiors, moderate stroke contrast, softly rounded tapered terminals, a quiet common shallow arch. Use controlled hand-lettered curves related to the rounded gunwale and paired oars, preserving all radicals and legibility. All three characters must share a clearly authored stroke language; no generic Song/Ming typesetting or loose brush calligraphy. Deep warm oxblood-red flat printed ink. No bevel, extrusion, shadow, glow or sticker edges. The title should have designed personality and work with the scene's formal symmetry without overpowering it.
+No other text, credits, endorsements, logos, watermark or border.
+
+PASS CONDITION:
+At a small thumbnail, BEFORE reading the title, the scene should already read as a highly art-directed Wes Anderson film tableau: frontal coral boat, paired oars, carefully framed forest, designed strong warm/cool color masses, real physical photographic detail and a composed, slightly eccentric mood. A pleasant realistic lake photograph with a title is a failure.

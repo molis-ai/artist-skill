@@ -1,0 +1,7 @@
+# 咖啡馆喝咖啡（莫奈）— 归档说明
+
+画幅：横版 3:2 无字油画
+成图：outputs/man-in-cafe/man-in-cafe.jpg
+过程稿：outputs/man-in-cafe/man-in-cafe-v1.jpg、man-in-cafe-v2.jpg
+
+2026-09-11 在 artist-skill 会话中新生成：1 次生成、2 次定向编辑。每张图对应同名 `.prompt.txt`。当前结果从首稿重做人物笔触与空气，未沿用马赛克失败稿。

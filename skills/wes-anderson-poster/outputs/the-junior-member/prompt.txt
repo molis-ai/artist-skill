@@ -1,0 +1,33 @@
+# The Junior Member — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-junior-member/poster.jpg
+过程稿：outputs/the-junior-member/poster-v1.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fartist-skill/01a09070-79cd-70d3-907d-a0f42e88d672/images/8.jpg
+尺寸：832 × 1248
+
+主标题：The Junior Member
+副标题：She Has Taken the Adult Card
+色板：Chevalier1
+
+## 生成（image_gen）
+
+Create one 2:3 vertical movie poster in Wes Anderson's live-action visual style: a formally staged afternoon in a 1960s public reading room, with period art direction, deliberate color design and a gently photochemical finish.
+
+A schoolchild stands too ceremonially in the adult stacks, as if she has just taken a grown-up library card. Photograph this arrangement straight on down the aisle, with a level camera and a calm central axis through the child. The complete library is a shallow frontal room built from a repeating shelf array: tall wooden bookcases left and right share the same bay width, uprights and shelf spacing, with books of different thicknesses and heights sitting in orderly rows, not cloned copies. A cream ceiling band is left open for the title. The child is a complete standing girl about nine years old in the lower-middle of the frame, fully clothed in a 1960s school cardigan, Peter Pan collar, skirt, knee socks and sturdy shoes. She stands on a low wooden library stool, both feet planted on its seat, one hand resting on a shelf edge; her face meets the camera with a composed, unreadable expression, not a smile. An empty adult reading chair sits in the left aisle, lower than the shelf mid-rail; a three-tier wooden book cart stands on the right, a different height from the chair. Keep the child small against adult-height stacks: a real child on a real stool, not enlarged to fill the aisle.
+
+Base the palette on Chevalier1. Assign forest green #446455 to the large wall panels and the shadowed shelf recesses; pale grey #D3DDDC to the shelf wood and aisle floor; yellow #FDD262 to the substantial cardigan; taupe #C7B19C to the chair and book cart. Derive a deep forest ink from #446455 for the lettering. Reproduce these colors through a coherent vintage color-negative and print response: warm ivory highlights on paper edges and wool, gently cool green in the stacks, mellow yellow cardigan and full but controlled dark greens. Soft interior library light from high windows, highlights rolled off smoothly, local texture contrast quieter than the large color fields. Wool, wood, paper and leather bindings remain distinct without a contemporary bookstore-brochure finish. Fine integrated grain, no distressed paper.
+
+Place the exact title "The Junior Member" in the upper ceiling band as one gently arched custom publication-serif wordmark, about three quarters of the image width. Use restrained, slightly wide serif letters, modest stroke contrast, open counters, a descending hook on the J of Junior, and a small terminal flick on the r of Member. Maintain natural word spacing. The ink is that deep forest color, integrated with the print response, placed directly on the cream ceiling with no banner or box. Below it, set the exact subtitle "SHE HAS TAKEN THE ADULT CARD" in quiet, lightly spaced small sans-serif capitals, around one fifth of the main letter height. Comfortable clear interval above the top shelf. Flat ink, no shadow, no extra text.
+
+## 修正 1（image_edit）
+
+Keep the same 2:3 Wes Anderson cinema poster, the same child on the library stool, yellow cardigan, green stacks, chair, book cart, and the same overall layout.
+
+Change only the lettering so it is spelled exactly:
+Main title: "The Junior Member"
+Subtitle: "SHE HAS TAKEN THE ADULT CARD"
+
+Remove the macron or bar over the e in Member. Remove the period after CARD. Keep the same arched publication-serif title, the long J, deep forest ink, no banner, no extra text.
+
+Do not restyle the child, room, colors, or title drawing besides correcting those letters. Do not add people, props, credits, or a frame.

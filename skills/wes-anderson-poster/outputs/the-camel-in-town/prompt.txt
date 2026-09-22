@@ -1,0 +1,25 @@
+# The Camel in Town — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-camel-in-town/poster.jpg
+过程稿：outputs/the-camel-in-town/poster-v1.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fwes-anderson-poster/01a08ea8-d1f7-7332-a2fb-4b9d1de02018/images/4.jpg
+
+主标题：The Camel in Town
+副标题：An Unexpected Guest
+
+## 生成（image_gen）
+
+Create one 2:3 Wes Anderson-style cinema poster: photographic subjects arranged in shallow pictorial space, reproduced as warm matte film-print key art. Unify the imagery and lettering with a harmonious vintage color grade, fine organic grain and a soft, finely textured matte surface.
+
+The visual center is a single-humped dromedary posed for a formal portrait in a city piazza, standing on a faded coral runner that is slightly too short and too narrow for its hooves. The camel faces the camera, head slightly lowered so both dark eyes meet the viewer, ears matched, expression calm and ceremonial. Place the camel in the lower-middle of the frame, occupying about half the poster height. For the peach-stucco hotel facade spanning left and right behind the camel, show it frontally so its own central arched doorway aligns with the camel’s midline; matching window bays sit on either side of that axis with balanced perspective. Preserve small differences among separate details: one sage shutter half-open, one window box of geraniums, slightly uneven roof tiles. The facade acts as a shallow theatrical backdrop with compressed depth, softly overlapping the camel’s hump and flanks. Reserve a cream sky band above the cornice for the title-and-subtitle group.
+
+Render the camel’s honey-tan coat with selective photographic fur and gentle volume, a few irregular hairs at the jaw and ears. Keep the hotel stucco, shutters and distant window panes softly defocused yet photographic. Give the cream plaza stones a few broad soft surface cues and short contact shadows where hooves and carpet meet the ground. Use broad soft frontal light from slightly above, restrained detail contrast, soft cream highlights and gently lifted compressed shadows. Blend fine visible organic film grain with a low-contrast matte photographic-print texture throughout the imagery and ink.
+
+Choose honey-ochre camel coat as the main hue and faded peach-terracotta stucco as the supporting hue, each in substantial areas, with sage-green shutters as a cooler companion, cream ivory sky and plaza as the soft light ground, faded coral carpet as a small accent, and deep teal-ink as the dark anchor. Give the colors a shared warm cream undertone. Apply a unified gentle film-print grade: restrain excessive chroma and local contrast while retaining the chosen hue and warm/cool distinctions.
+
+Main title, exactly: "The Camel in Town". Design it as expressive typographic artwork using rounded vintage serif lettering and an arched wordmark. Build full soft serifs, open counters, medium stroke contrast and warm printed weight. Draw a short inward swash on the C of Camel and a modest terminal flick on the n of Town. Arrange the lettering along a gentle arch in the cream sky band above the hotel cornice, reading left to right, peaking at Camel; make The smaller, Camel the largest word, and in Town medium. Deep teal-green ink on the cream sky. Subtitle, exactly: "An Unexpected Guest", in quiet small-cap serif about one-fifth the title’s cap height, letterspaced on a straight line centered just beneath the arch. Keep spelling, reading sequence and essential letter structure clear.
+
+## 修正 1（image_edit）
+
+Keep the same camel, hotel facade, coral runner, colors, and exact wording. Change only the title composition and the print finish. Bend the main title so the words The Camel in Town follow a gentle arch in the cream sky band above the cornice, reading left to right, peaking at Camel; keep The smaller, Camel the largest word, in Town medium; keep the rounded vintage serif, the C swash, and exact spelling. Leave the subtitle An Unexpected Guest as a straight small-cap line centered just under the arch. Unify the photograph and the ink as one warm matte film-print: soft cream highlights, gently lifted shadows, fine organic grain and a low-contrast matte paper surface so the lettering belongs to the same print, not a sharp digital overlay. Do not add people, logos, or extra text.

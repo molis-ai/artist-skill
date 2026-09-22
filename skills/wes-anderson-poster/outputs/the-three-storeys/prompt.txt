@@ -1,0 +1,54 @@
+# The Grand Lobby — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-three-storeys/poster.jpg
+过程稿：poster-v1.jpg / poster-v2.jpg 为已否定的剖面稿
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fartist-skill/01a09070-79cd-70d3-907d-a0f42e88d672/images/11.jpg
+尺寸：832 × 1248
+
+主标题：The Grand Lobby
+副标题：The Doorman Is Still Holding the Door
+色板：GrandBudapest2
+
+用户纠正：不要墙体剖开的穿透透视；要大厅内部视角，三个楼层都有栏杆。
+
+## 生成 2（image_gen，大厅视角）
+
+Create one 2:3 vertical movie poster in Wes Anderson's live-action visual style: a formally staged 1930s grand-hotel lobby, with period art direction, deliberate color design and a gently photochemical finish.
+
+Photograph from inside the hall, standing on the ground floor, looking straight on toward the far end of a triple-height atrium. This is a real interior, not a dollhouse and not a building with the front wall removed. The space is one tall room: pink plaster walls, a pale ceiling band left open for the title, and three stacked open galleries facing the hall. Each of the three floors has a complete horizontal railing spanning left to right — matching turned balusters and a continuous handrail on every level, including a low brass-and-wood rail around the ground-floor stair well. A grand staircase with a blue runner climbs through the center-back and actually lands on each gallery. The railings themselves show their own left-right structure from the front; furniture and people on the galleries are not mirrored.
+
+Ground floor, behind the lowest railing: a hall porter in a long 1930s rose-brown coat, peaked cap and white gloves stands at the lobby’s inner doors to the right, one gloved hand holding a door leaf, looking toward the arriving guest, not at the camera. A civilian guest with a small suitcase has paused in the middle of the marble floor, looking down at a brass key. To the left, a concierge in a distinct blue uniform jacket stands behind a wooden reception desk, looking down at the open register, one hand on the page. An empty waiting chair sits beside the desk.
+
+Second-floor gallery: one guest stands at the railing looking down into the hall, not at the camera. Third-floor gallery: the matching stretch of railing is empty. Keep people small against the tall hall: adults readable but not filling a storey. Four people only. They do not pose as a group.
+
+Base the palette on GrandBudapest2. Assign dusty pink #E6A0C4 to the large lobby walls; pale lilac-blue #C6CDF7 to the ceiling and upper gallery walls; medium blue #7294D4 to the stair runner, door leaves, railing accents and the concierge jacket; warm dusty rose-brown #D8A499 to the porter’s coat, the desk and the wood of the railings. Derive a deep purple-blue ink from #7294D4 for the lettering. Reproduce these colors through a coherent vintage color-negative and print response: warm ivory highlights on plaster, marble and brass, gently cool blue in the stairwell, mellow pink walls and full but controlled blues. Soft interior lobby light from high windows, highlights rolled off smoothly, local texture contrast quieter than the large color fields. Wool, plaster, wood, brass, marble and carpet remain distinct. Fine integrated grain, no distressed paper, no fog.
+
+Place the exact title "The Grand Lobby" in the upper ceiling band as one gently arched custom rounded-serif wordmark, about three quarters of the image width. Use plump, softly bracketed serifs, open counters, moderate stroke contrast, a short leftward swash from the T of The, and a modest descending tail from the y of Lobby. Maintain natural word spacing. The ink is that deep purple-blue, placed directly on the ceiling with no banner or box. Below it, set the exact subtitle "THE DOORMAN IS STILL HOLDING THE DOOR" in quiet, lightly spaced small sans-serif capitals, around one fifth of the main letter height. Comfortable clear interval above the third-floor railing. Flat ink, no shadow, no extra text, no hotel name, no credits.
+
+## 已否定：剖面稿（image_gen）
+
+
+Create one 2:3 vertical movie poster in Wes Anderson's live-action visual style: a formally staged 1930s grand-hotel cutaway, with period art direction, deliberate color design and a gently photochemical finish.
+
+The subject is the building itself: three occupied storeys of one hotel, photographed straight on as a shallow architectural section. Show the outer pink shell with a readable cut edge, three floor slabs of visible thickness, and one staircase that actually lands on each floor. A pale sky band above the cornice is left open for the title. The facade spanning left and right has its own balanced windows and cornice; the rooms inside do not mirror each other.
+
+Ground floor, the entrance hall: a hall porter in a long 1930s coat, peaked cap and white gloves stands at the open street door, one gloved hand holding the door leaf, looking toward the arriving guest, not at the camera. A civilian guest with a small leather suitcase has paused on the threshold, looking down at a brass room key, not at the porter. An empty luggage trolley stands unused to one side.
+
+Middle floor, the reception: a concierge in a distinct shorter uniform jacket stands behind a wooden desk, looking down at the open register, one hand on the page. An empty waiting chair sits beside the desk. Nobody on this floor looks at the camera.
+
+Top floor: a guest corridor opens into one bedroom on the right, where a second civilian guest sits on the edge of the bed looking out the window, unaware of the floors below. The matching room on the left is furnished but empty.
+
+Keep people small against the architecture: adults about one-third the height of each storey, feet planted on real floors or stair treads. Four people only. They do not pose as a group.
+
+Base the palette on GrandBudapest2. Assign dusty pink #E6A0C4 to the large exterior shell and ground-floor walls; pale lilac-blue #C6CDF7 to the sky and the middle-floor walls; medium blue #7294D4 to doors, window frames, stair runner and the concierge jacket; warm dusty rose-brown #D8A499 to the porter’s coat, the wooden desk and the bedroom textiles. Derive a deep purple-blue ink from #7294D4 for the lettering. Reproduce these colors through a coherent vintage color-negative and print response: warm ivory highlights on plaster and brass, gently cool blue in stairwell and window recesses, mellow pink walls and full but controlled blues. Soft interior light mixed with afternoon light at the open door, highlights rolled off smoothly, local texture contrast quieter than the large color fields. Wool, plaster, wood, brass and carpet remain distinct. Fine integrated grain, no distressed paper, no fog.
+
+Place the exact title "The Three Storeys" in the upper sky as one gently arched custom rounded-serif wordmark, about three quarters of the image width. Use plump, softly bracketed serifs, open counters, moderate stroke contrast, a short leftward swash from the T of The, and a modest descending tail from the s of Storeys. Maintain natural word spacing. The ink is that deep purple-blue, placed directly on the sky with no banner or box. Below it, set the exact subtitle "THE DOORMAN IS STILL HOLDING THE DOOR" in quiet, lightly spaced small sans-serif capitals, around one fifth of the main letter height. Comfortable clear interval above the cornice. Flat ink, no shadow, no extra text, no hotel name, no credits.
+
+## 修正 1（image_edit）
+
+Keep the same 2:3 Wes Anderson hotel cutaway poster, the same three pink-and-lilac storeys, staircase, furniture, lettering "The Three Storeys" / "THE DOORMAN IS STILL HOLDING THE DOOR", the same doorman holding the door on the ground floor, the same concierge at the desk, and the same guest sitting on the top-floor bed.
+
+Change only the standing guest on the middle floor: replace the man in the matching brown tweed coat so he is no longer a twin of the ground-floor guest. Make him a different civilian traveler — an older woman in a cream traveling coat and hat, small suitcase at her feet, looking down at a room key, not at the camera.
+
+Do not restyle the building, colors, other people, or title drawing. Do not add extra people, extra floors, credits, or a frame.

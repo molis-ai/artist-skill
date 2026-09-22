@@ -1,0 +1,29 @@
+# The Staff Baths — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-staff-baths/poster.jpg
+过程稿：outputs/the-staff-baths/poster-v1.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fartist-skill/01a09070-79cd-70d3-907d-a0f42e88d672/images/5.jpg
+尺寸：832 × 1248
+
+主标题：The Staff Baths
+副标题：He Came Directly from the Kitchen
+色板：Moonrise2
+
+## 生成（image_gen）
+
+Create one 2:3 vertical movie poster in Wes Anderson's live-action visual style: a formally staged after-hours moment in a 1960s municipal public bathhouse, with period art direction, deliberate color design and a gently photochemical finish.
+
+A chef has come directly from the kitchen and has not changed out of his whites. He stands at the far edge of an empty square soaking pool, too formally dressed for the baths, looking at the camera with a composed, unreadable expression. Photograph this arrangement straight on from the opposite side of the pool, with a level camera and a calm central axis through the chef. The complete bathhouse is a shallow frontal room: sage-green square wall tiles, a rectangular pool whose front waterline and two matching inner corners read clearly, a pale ceiling band left open for the title, and a dark wooden locker-bench running behind him. The chef is a complete standing adult in the middle of the frame, kitchen clogs planted on the wet tile deck, not in the water. He wears a tall white toque, a double-breasted chef’s jacket, a long apron and checkered kitchen trousers. One hand holds a small wooden bath pail at his side as if it were a mixing bowl. An unused low wooden stool sits on the left deck, lower than his hip; a stacked pair of metal washbasins stands on the right, a different height from the stool. The pool in front of him is still and empty of other bathers. Keep the chef, pool and tiled walls clearly scaled together: an adult standing beside a real public bath, not a toy tub and not filling the whole room.
+
+Base the palette on Moonrise2. Assign sage green #798E87 to the large tiled walls and the still pool water; ochre #C27D38 to the wooden stool, locker-bench and bath pail; pale khaki #CCC591 to the chef’s jacket and apron; deep ink #29211F to the toque band, clogs and lettering. Reproduce these colors through a coherent vintage color-negative and print response: warm ivory highlights on the whites and wet tile edges, gently cool green in the pool and tile recesses, mellow ochre wood and a full but controlled sage field. Soft interior light from high windows, highlights rolled off smoothly, local texture contrast quieter than the large color fields. Cotton, glazed tile, wood, metal and still water remain distinct without a contemporary spa-brochure finish. Fine integrated grain, no distressed paper, no steam veil, no fog.
+
+Place the exact title "The Staff Baths" in the upper ceiling band as one gently arched custom rounded-serif wordmark, about three quarters of the image width. Use plump, softly bracketed serifs, open counters, moderate stroke contrast, a short leftward swash from the S of Staff, and a modest descending tail from the s of Baths. Maintain natural word spacing. The ink is that deep olive-black, integrated with the print response, placed directly on the ceiling with no banner or box. Below it, set the exact subtitle "HE CAME DIRECTLY FROM THE KITCHEN" in quiet, lightly spaced small sans-serif capitals, around one fifth of the main letter height. Comfortable clear interval above the back wall. Flat ink, no shadow, no extra text.
+
+## 修正 1（image_edit）
+
+Keep the same 2:3 Wes Anderson cinema poster, the same chef in whites at the empty staff bathhouse, the same sage tiles, pool, wooden bench, stool, basins, pail, and the exact lettering "The Staff Baths" / "HE CAME DIRECTLY FROM THE KITCHEN".
+
+Change only the chef’s face: a composed, unreadable, deadpan expression looking at the camera. No smile.
+
+Do not restyle the room, clothes, colors, or title drawing. Do not add steam, extra people, extra props, credits, or a frame.

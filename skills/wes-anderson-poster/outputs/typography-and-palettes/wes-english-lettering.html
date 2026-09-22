@@ -1,0 +1,120 @@
+<div id="wes-english-lettering" aria-label="英文表现性文字构图与字体方向对照">
+  <link id="wes-lettering-fonts" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400&amp;family=Fraunces:wght@500&amp;family=Grand+Hotel&amp;family=Lobster+Two&amp;display=swap">
+  <style>
+    #wes-english-lettering .wt-option { min-width: 0; margin-block-end: 20px; }
+    #wes-english-lettering .wt-label { margin-block-end: 9px; }
+    #wes-english-lettering .wt-sample { background: #E7D5AF; color: #705142; padding: 22px 14px; text-align: center; }
+    #wes-english-lettering .wt-title { margin: 0 0 16px; font-size: 58px; line-height: 1.25; font-weight: 400; font-synthesis: none; }
+    #wes-english-lettering .wt-subtitle { color: #705142; margin: 0; font-family: Georgia, serif; font-weight: 400; }
+    #wes-english-lettering .wt-fraunces { font-family: "Fraunces", Georgia, serif; font-weight: 500; }
+    #wes-english-lettering .wt-lobster { font-family: "Lobster Two", cursive; letter-spacing: normal; }
+    #wes-english-lettering .wt-grand { font-family: "Grand Hotel", cursive; letter-spacing: normal; }
+    #wes-english-lettering .wt-comfortaa { font-family: "Comfortaa", sans-serif; letter-spacing: 0.01em; }
+    #wes-english-lettering .wt-source { margin-block-start: 7px; }
+    #wes-english-lettering .wt-art { display: block; width: 100%; height: auto; background: #E7D5AF; color: #705142; overflow: visible; }
+    #wes-english-lettering .wt-art text { fill: currentColor; }
+    #wes-english-lettering .wt-art .wt-round { font-family: "Fraunces", Georgia, serif; font-weight: 500; }
+    #wes-english-lettering .wt-art .wt-script { font-family: "Grand Hotel", cursive; font-weight: 400; }
+    #wes-english-lettering .wt-art .wt-swash { fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; }
+  </style>
+  <div class="nav nav-pills" role="tablist" aria-label="查看文字构图或字体骨架">
+    <button class="nav-link active" id="wt-layout-tab" type="button" role="tab" aria-controls="wt-layout-panel" aria-selected="true">文字构图</button>
+    <button class="nav-link" id="wt-font-tab" type="button" role="tab" aria-controls="wt-font-panel" aria-selected="false">字体骨架</button>
+  </div>
+  <div id="wt-layout-panel" role="tabpanel" aria-labelledby="wt-layout-tab">
+    <div class="viz-grid">
+      <section class="wt-option">
+        <div class="wt-label"><strong>花饰回环字</strong> <span class="text-small text-muted">Swash lettering</span></div>
+        <svg class="wt-art" viewBox="0 0 360 250" role="img" aria-label="Lost 连笔字，首尾配有回环和卷曲线条">
+          <text class="wt-script" x="180" y="166" text-anchor="middle" font-size="100">Lost</text>
+          <path class="wt-swash" d="M126 148 C93 143 94 97 53 107 C21 115 29 158 59 153 C85 149 75 118 57 125 C43 130 51 145 60 138"/>
+          <path class="wt-swash" d="M229 153 C270 162 289 144 305 118 C329 78 291 61 275 87 C260 111 290 125 300 105 C307 91 291 86 286 96"/>
+        </svg>
+      </section>
+      <section class="wt-option">
+        <div class="wt-label"><strong>拱形字组</strong> <span class="text-small text-muted">Arched typography</span></div>
+        <svg class="wt-art" viewBox="0 0 360 250" role="img" aria-label="The Long Way Home 沿向上拱起的曲线排列">
+          <defs><path id="wt-arch-path" d="M25 176 Q180 -4 335 176"/></defs>
+          <text class="wt-round" font-size="29"><textPath href="#wt-arch-path" startOffset="50%" text-anchor="middle">The Long Way Home</textPath></text>
+          <text class="wt-script" x="180" y="193" text-anchor="middle" font-size="51">Lost</text>
+        </svg>
+      </section>
+      <section class="wt-option">
+        <div class="wt-label"><strong>圆环环绕</strong> <span class="text-small text-muted">Circular typography</span></div>
+        <svg class="wt-art" viewBox="0 0 360 250" role="img" aria-label="The Long Way Home 沿圆环排列，Lost 位于环内">
+          <defs><path id="wt-circle-path" d="M180 35 A90 90 0 1 1 179.9 35"/></defs>
+          <text class="wt-round" font-size="28"><textPath href="#wt-circle-path" startOffset="6%" textLength="470" lengthAdjust="spacing">THE LONG WAY HOME</textPath></text>
+          <text class="wt-script" x="180" y="149" text-anchor="middle" font-size="65">Lost</text>
+        </svg>
+      </section>
+      <section class="wt-option">
+        <div class="wt-label"><strong>螺旋字组</strong> <span class="text-small text-muted">Spiral typography</span></div>
+        <svg class="wt-art" viewBox="0 0 360 250" role="img" aria-label="Lost, perhaps. Every road feels like home 沿旋入的螺旋排列">
+          <defs><path id="wt-spiral-path" d="M75 125 C75 55 140 17 214 36 C297 58 317 151 266 197 C221 239 148 218 118 173 C84 122 124 70 175 75 C232 79 255 136 220 163 C193 184 160 167 160 143"/></defs>
+          <text class="wt-round" font-size="21"><textPath id="wt-spiral-text" href="#wt-spiral-path" startOffset="1%" textLength="800" lengthAdjust="spacing">THE LONG WAY HOME · LOST, PERHAPS · EVERY ROAD FEELS LIKE HOME</textPath></text>
+        </svg>
+      </section>
+      <section class="wt-option">
+        <div class="wt-label"><strong>波浪与流线</strong> <span class="text-small text-muted">Type on a path</span></div>
+        <svg class="wt-art" viewBox="0 0 360 250" role="img" aria-label="The Long Way Home 沿一条柔和的波浪曲线流动">
+          <defs><path id="wt-wave-path" d="M25 150 C81 43 129 205 191 132 S287 73 335 144"/></defs>
+          <text class="wt-script" font-size="45"><textPath href="#wt-wave-path" startOffset="50%" text-anchor="middle">The Long Way Home</textPath></text>
+        </svg>
+      </section>
+      <section class="wt-option">
+        <div class="wt-label"><strong>大小错落、自由组字</strong> <span class="text-small text-muted">Expressive composition</span></div>
+        <svg class="wt-art" viewBox="0 0 360 250" role="img" aria-label="The Long Way Home 以大小不同、角度错落的词组构成整体">
+          <text class="wt-script" x="67" y="72" font-size="45" transform="rotate(-10 67 72)">The</text>
+          <text class="wt-round" x="53" y="133" font-size="65" transform="rotate(-7 53 133)">Long</text>
+          <text class="wt-round" x="219" y="161" font-size="51" transform="rotate(11 219 161)">Way</text>
+          <text class="wt-script" x="114" y="224" font-size="76" transform="rotate(-4 114 224)">Home</text>
+        </svg>
+      </section>
+    </div>
+  </div>
+  <div id="wt-font-panel" role="tabpanel" aria-labelledby="wt-font-tab" hidden>
+  <div class="viz-grid">
+    <section class="wt-option" aria-label="圆润复古衬线">
+      <div class="wt-label"><strong>01 圆润复古衬线</strong></div>
+      <div class="wt-sample"><div class="wt-title wt-fraunces">Lost</div><p class="wt-subtitle text-small">Every road feels like home.</p></div>
+      <div class="wt-source text-small"><a href="https://fonts.google.com/specimen/Fraunces" target="_blank" rel="noreferrer">Fraunces</a> · 饱满、柔和、有印刷分量</div>
+    </section>
+    <section class="wt-option" aria-label="饱满复古连笔">
+      <div class="wt-label"><strong>02 饱满复古连笔</strong></div>
+      <div class="wt-sample"><div class="wt-title wt-lobster">Lost</div><p class="wt-subtitle text-small">Every road feels like home.</p></div>
+      <div class="wt-source text-small"><a href="https://fonts.google.com/specimen/Lobster+Two" target="_blank" rel="noreferrer">Lobster Two</a> · 圆转、连贯、招牌气质</div>
+    </section>
+    <section class="wt-option" aria-label="纤细抒情连笔">
+      <div class="wt-label"><strong>03 纤细抒情连笔</strong></div>
+      <div class="wt-sample"><div class="wt-title wt-grand">Lost</div><p class="wt-subtitle text-small">Every road feels like home.</p></div>
+      <div class="wt-source text-small"><a href="https://fonts.google.com/specimen/Grand+Hotel" target="_blank" rel="noreferrer">Grand Hotel</a> · 轻盈、舒展、更浪漫</div>
+    </section>
+    <section class="wt-option" aria-label="圆润几何">
+      <div class="wt-label"><strong>04 圆润几何</strong></div>
+      <div class="wt-sample"><div class="wt-title wt-comfortaa">Lost</div><p class="wt-subtitle text-small">Every road feels like home.</p></div>
+      <div class="wt-source text-small"><a href="https://fonts.google.com/specimen/Comfortaa" target="_blank" rel="noreferrer">Comfortaa</a> · 克制、俏皮、结构清楚</div>
+    </section>
+  </div>
+  </div>
+  <p id="wes-font-status" class="text-small text-muted" role="status">示例字体加载中…</p>
+  <script>
+    (() => {
+      const root = document.getElementById('wes-english-lettering');
+      const spiralPath = root.querySelector('#wt-spiral-path');
+      root.querySelector('#wt-spiral-text').setAttribute('textLength', spiralPath.getTotalLength() * 0.97);
+      const status = root.querySelector('#wes-font-status');
+      const sheet = root.querySelector('#wes-lettering-fonts');
+      const failed = () => { status.hidden = false; status.textContent = '部分示例字体未加载；可点字体名称查看官方字样。'; };
+      const inspect = async () => {
+        try {
+          const requested = ['500 58px "Fraunces"', '400 58px "Lobster Two"', '400 58px "Grand Hotel"', '400 58px "Comfortaa"'];
+          const results = await Promise.all(requested.map(font => document.fonts.load(font, 'Lost')));
+          if (results.every(faces => faces.length > 0)) status.hidden = true;
+          else failed();
+        } catch { failed(); }
+      };
+      if (sheet.sheet) inspect();
+      else { sheet.addEventListener('load', inspect, { once: true }); sheet.addEventListener('error', failed, { once: true }); }
+    })();
+  </script>
+</div>

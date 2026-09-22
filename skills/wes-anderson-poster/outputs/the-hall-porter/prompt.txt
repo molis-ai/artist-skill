@@ -1,0 +1,20 @@
+# The Hall Porter — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-hall-porter/poster.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fartist-skill/01a09070-79cd-70d3-907d-a0f42e88d672/images/1.jpg
+尺寸：832 × 1248
+
+主标题：The Hall Porter
+副标题：Nobody Has Come Through Since Two
+色板：GrandBudapest2
+
+## 生成（image_gen）
+
+Create one 2:3 vertical movie poster in Wes Anderson's live-action visual style: a formally staged afternoon at a 1930s European grand hotel, with period art direction, deliberate color design and a gently photochemical finish.
+
+A hotel hall porter stands at the entrance holding one leaf of the blue double doors open for a guest who has not arrived. Photograph this arrangement straight on, from several meters away, with a level camera and a calm central axis through the doorway. The complete pink stucco facade has a balanced cornice and matching sash windows on either side of a central pair of blue doors with matched glass panes and brass handles; a pale scalloped canopy spans the entrance with matching support poles. The porter is a complete standing adult in the lower-middle of the frame, slightly to the right of the opening, feet planted on the same stone step. He wears a 1930s long wool frock coat, peaked cap with a small brass badge, white gloves and polished black shoes. His face meets the camera with a composed, unreadable expression; his right gloved hand rests on the open door. To the left of the steps, a low empty brass luggage trolley stands unused, shorter than his waist and different in height from a single potted bay tree on the far right. Through the open door, a quiet empty lobby is readable but secondary. Keep the porter, the doors and the canopy clearly scaled together: the doors are taller than the man, as at a real grand hotel.
+
+Base the palette on GrandBudapest2. Assign dusty pink #E6A0C4 to the large facade; pale lilac-blue #C6CDF7 to the sky and the canopy lining; medium blue #7294D4 to the doors, window frames and canopy poles; warm dusty rose-brown #D8A499 to the porter's coat. Derive a deep purple-blue ink from #7294D4 for the lettering. Reproduce these colors through a coherent vintage color-negative and print response: warm ivory highlights on the plaster, gently cool blue in the door recess and lobby, mellow pink walls and full but controlled blues. Soft frontal afternoon light, highlights rolled off smoothly, local texture contrast quieter than the large color fields. Wool, brass, glass, stucco and stone remain distinct without a contemporary hotel-brochure finish. Fine integrated grain, no distressed paper.
+
+Place the exact title "The Hall Porter" in the upper sky as one gently arched custom rounded-serif wordmark, about three quarters of the image width. Use warm, softly bracketed serifs, open counters, moderate stroke contrast, a short leftward swash from the H of Hall, and a modest descending tail from the r of Porter. Maintain natural word spacing. The ink is that deep purple-blue, integrated with the print response. Below it, set the exact subtitle "NOBODY HAS COME THROUGH SINCE TWO" in quiet, lightly spaced small sans-serif capitals, around one fifth of the main letter height. Comfortable clear interval above the canopy. Flat ink, no shadow, no extra text.

@@ -1,0 +1,29 @@
+# The Pale Robe — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-pale-robe/poster.jpg
+过程稿：outputs/the-pale-robe/poster-v1.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang/01a094f7-5766-78d1-bc6c-b752edf2850f/images/2.jpg
+尺寸：832 × 1248
+
+主标题：The Pale Robe
+副标题：She Waited Until the Steam Cleared
+色板：GrandBudapest2
+
+## 生成（image_edit，源图为上一张浴室人物）
+
+Create one 2:3 vertical movie poster in Wes Anderson's live-action visual style from this woman, fully restaged as a deliberately composed hotel-bathroom tableau with period art direction and a gentle photochemical film-print finish.
+
+Keep only this same adult East Asian woman: the same face, age, skin tone, and long wet black hair. Rebuild the room, camera, clothes staging, and colors. She stands complete in the middle of a shallow frontal 1960s grand-hotel bathroom, looking straight at the camera with a composed, unreadable expression. Her white waffle bathrobe is fully closed and tied at the waist. Her right hand rests on her right thigh as if she paused there; her left arm hangs. Both feet plant on the tiled floor. Photograph straight on, level camera, a calm central axis through her body. Behind her, a centered glass shower enclosure whose two brass hinges and two side panels read as the enclosure's own front symmetry. Leave a pale pink plaster band across the upper wall for the title. Lower walls are a grid of square pale-lilac tiles. Two matching wall sconces with rose-pink shades sit at equal height. A single unused brass robe hook is on the left, lower than her shoulder; a neatly folded blue towel sits on a rack only on the right, a different height from the hook. A small orchid in a warm-stone pot stands on a marble washstand at left, shorter than the hook. Light condensation beads on the glass, not a steam fog. She is an adult standing in a real hotel bathroom, not filling the whole room.
+
+Base the palette on GrandBudapest2. Assign pink #E6A0C4 to the large upper plaster walls; pale lilac-blue #C6CDF7 to the square wall tiles and shower interior; warm stone #D8A499 to the washstand and orchid pot; blue #7294D4 to the towel, window frame, and fixture accents. The robe stays ivory-white. Lettering uses a derived deep plum-blue ink mixed by deepening #7294D4. Soft sconce light plus a high frosted window, ivory highlights on the robe, gently cool recesses in the tiles, mellow pink walls, highlights rolled off, fine integrated grain, no distressed paper, no contemporary spa lighting, no paper frame.
+
+Place the exact title "The Pale Robe" in the upper pink wall band as one gently arched custom rounded-serif wordmark, about three quarters of the image width. Plump softly bracketed serifs, open counters, moderate stroke contrast, a short leftward swash from the P, a modest descending tail from the e of Robe, natural word spacing. Below it, the exact subtitle "SHE WAITED UNTIL THE STEAM CLEARED" in quiet lightly spaced small sans-serif capitals, around one fifth of the main letter height. Flat deep plum-blue ink, no banner, no shadow, no extra text, no credits.
+
+## 修正 1（image_edit）
+
+Keep the same 2:3 Wes Anderson cinema poster, the same woman in the closed ivory waffle robe, the same pink plaster bathroom, lilac square tiles, centered glass shower, matching rose sconces, orchid, brass hook, blue towel, and the exact lettering "The Pale Robe" / "SHE WAITED UNTIL THE STEAM CLEARED".
+
+Change only the title presentation. Remove the separate darker-pink title banner, header bar, boxed panel, and any hard horizontal crop line at the top. Continue the bathroom’s own pink plaster wall as one continuous surface to the top edge of the poster. Place "The Pale Robe" as the same gently arched rounded-serif wordmark painted directly on that wall, and the subtitle "SHE WAITED UNTIL THE STEAM CLEARED" as the same quiet small sans-serif capitals directly beneath it on the same wall. Flat deep plum-blue ink belonging to the photograph, no banner, no box, no paper mat.
+
+Do not restyle the woman, robe, tiles, shower, lights, or props. Do not add steam fog, extra people, credits, extra text, or a frame.

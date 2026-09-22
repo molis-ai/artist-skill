@@ -1,0 +1,10 @@
+# 林中泊 — 归档说明
+
+画幅：竖版海报
+成图：outputs/lin-zhong-bo/poster.png
+过程稿：poster-v2.png、poster-v3.png、poster-photo.png、poster-photo-v2.png、film-still.png
+分层稿：film-layers.png（从 outputs 根目录移入）
+
+主标题：林中泊
+
+技能早期试验稿，后收敛为「林湖渡」。从 Cursor 资源库移入。当时的完整生成提示词未另存。

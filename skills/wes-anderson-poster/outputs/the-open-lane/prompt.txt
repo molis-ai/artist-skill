@@ -1,0 +1,20 @@
+# The Open Lane — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-open-lane/poster.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fartist-skill/01a09070-79cd-70d3-907d-a0f42e88d672/images/6.jpg
+尺寸：832 × 1248
+
+主标题：The Open Lane
+副标题：No One Is Riding Today
+色板：Moonrise1
+
+## 生成（image_gen）
+
+Create one 2:3 vertical movie poster in Wes Anderson's live-action visual style: a formally staged summer afternoon on a 1960s country road, with period art direction, deliberate color design and a gently photochemical finish.
+
+A riderless horse stands in the exact middle of the lane as if it owns the road. Photograph this little arrangement straight on, from several meters away, with a level horizon and a calm central axis through the horse. The complete horse is a standing adult animal in the lower-middle of the frame, all four hooves planted on the pale road, head facing the camera in a composed, unreadable gaze, body with only a very slight three-quarter turn so the barrel and both shoulders remain readable. Keep a true horse: one head, four legs with correct joints, a mane and tail, hooves on the same surface. The road itself spans left and right as a pale frontal band with matching shoulders and a faint center line. Mustard-yellow fields open equally on both sides; a low dark tree line sits far back, even and quiet. To the left, a bicycle leans against a low wooden fence, lower than the horse’s shoulder; to the right, a cream stone milestone stands alone, a different height from the bicycle. No rider, no extra animals. Keep the horse, the road width and the fence clearly scaled together: an adult horse occupying a real country lane, not a toy and not larger than the landscape.
+
+Base the palette on Moonrise1. Assign pale yellow #F3DF6C to the large sky; mustard #CEAB07 to the substantial fields; cream #D5D5D3 to the road and the milestone; deep olive-black #24281A to the distant trees, the mane and the lettering. Keep the horse a natural chestnut with warm coat notes that sit beside the mustard, not a painted animal. Reproduce these colors through a coherent vintage color-negative and print response: warm ivory highlights on the road and coat, gently cool olive in the tree line and shadows, mellow mustard fields and a full but controlled yellow sky. Soft late-afternoon light, highlights rolled off smoothly, local texture contrast quieter than the large color fields. Coat, wood, stone and dry grass remain distinct without a contemporary equine-photography finish. Fine integrated grain, no distressed paper, no bokeh veil.
+
+Place the exact title "The Open Lane" in the upper sky as one gently arched custom rounded-serif wordmark, about three quarters of the image width. Use plump, softly bracketed serifs, open counters, moderate stroke contrast, a short leftward swash from the T of The, and a modest descending tail from the e of Lane. Maintain natural word spacing. The ink is that deep olive-black, integrated with the print response, placed directly on the sky with no banner or box. Below it, set the exact subtitle "NO ONE IS RIDING TODAY" in quiet, lightly spaced small sans-serif capitals, around one fifth of the main letter height. Comfortable clear interval above the horse’s ears. Flat ink, no shadow, no extra text.

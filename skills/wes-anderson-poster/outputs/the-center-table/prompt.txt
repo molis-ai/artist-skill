@@ -1,0 +1,24 @@
+# The Center Table — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-center-table/poster.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fartist-skill/01a09070-79cd-70d3-907d-a0f42e88d672/images/14.jpg
+尺寸：832 × 1248
+
+主标题：The Center Table
+副标题：A Place Is Set for Someone Late
+色板：Zissou1
+
+## 生成（image_gen）
+
+Create one 2:3 vertical movie poster in Wes Anderson's live-action visual style: a formally staged 1960s restaurant dining room, with period art direction, deliberate color design and a gently photochemical finish.
+
+Photograph from inside the room, standing in the aisle, looking straight on toward the back wall. This is a real interior, not a cutaway. A calm central axis runs through one round table placed in the exact middle of the floor. Three other tables share the same spacing and table height but not the same occupancy. A pale ceiling band is left open for the title. Matching pendant lamps hang in an even row; the back wall spanning left and right shows its own panelling and a central doorway.
+
+The center table is the main event: a round table with a yellow cloth, three place settings, two seated guests and one empty chair. The man looks at his plate; the woman looks at the empty place, not at the camera and not at us. They sit too formally, as if waiting for someone who is late.
+
+Left of center, a smaller square table: one guest reads a menu, the chair opposite is empty. Right of center, another square table: two guests eat without looking at each other, each attending to a glass or a fork. In the back left, a fourth table is fully set and empty. No one poses as a group photograph. Six people only. Keep them adult-sized at real restaurant tables, chairs and feet on the floor.
+
+Base the palette on Zissou1. Assign marine blue #3B9AB2 to the large lower walls; cyan #78B7C5 to the upper walls and ceiling; warm yellow #EBCC2A to the substantial tablecloths, with deeper gold #E1AF00 in the chair wood; concentrated red #F21A00 only on the small pendant shades. Derive a deep teal ink from #3B9AB2 for the lettering. Reproduce these colors through a coherent vintage color-negative and print response: warm ivory highlights on linen and porcelain, gently cool blue in the wall recesses, mellow yellow cloths and full but controlled blues. Soft interior restaurant light, highlights rolled off smoothly, local texture contrast quieter than the large color fields. Linen, wood, porcelain, glass and wool remain distinct without a contemporary food-photography finish. Fine integrated grain, no distressed paper.
+
+Place the exact title "The Center Table" in the upper ceiling band as one gently arched custom rounded-serif wordmark, about three quarters of the image width. Use plump, softly bracketed serifs, open counters, moderate stroke contrast, a short leftward swash from the T of The, and a modest descending tail from the e of Table. Maintain natural word spacing. The ink is that deep teal, placed directly on the ceiling with no banner or box. Below it, set the exact subtitle "A PLACE IS SET FOR SOMEONE LATE" in quiet, lightly spaced small sans-serif capitals, around one fifth of the main letter height. Comfortable clear interval above the lamps. Flat ink, no shadow, no extra text, no menu lettering, no credits.

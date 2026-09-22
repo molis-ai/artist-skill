@@ -1,0 +1,22 @@
+# 微信公众号头条封面
+
+成品比例：2.35:1（公众号消息列表头条大图）
+上传推荐：cover.jpg（1880×800）或 cover-900x383.jpg（官方最小 900×383）
+分享预览：cover-1x1-share-preview.jpg（系统会从大图中心裁 1:1）
+无字场面：scene-2x1.jpg
+
+封面文案：这不是滤镜 / 先把场面导演出来
+色板：GrandBudapest2
+文章主题未指定，按本 Skill 的方法钩子做封面。
+
+## 场面生成（image_gen，2:1，无字）
+
+Create one wide 2:1 live-action cinematic still in Wes Anderson's visual style: a formally staged 1930s grand-hotel lobby atrium, period art direction, deliberate color design, gently photochemical finish. No lettering, no captions, no credits, no signage.
+
+Photograph from inside the hall, standing on the ground floor, looking straight on into a triple-height pink atrium. Real interior, not a cutaway. Keep the visual hook in the exact center of the frame so a center square crop still holds the story: a hall porter in a long rose-brown coat, peaked cap and white gloves stands on the central marble axis, one gloved hand holding an open blue door that leads nowhere in particular, looking toward an arriving guest, not posing for a group photo. The arriving guest, a civilian with a small suitcase, has paused in the middle of the floor looking down at a brass key. An empty waiting chair sits to one side of the axis, lower than the porter.
+
+Three stacked galleries with matching wooden balustrades span left and right; the side galleries may run off the frame. A blue-runner staircase rises behind the porter. Soft interior light, warm ivory highlights on plaster and marble, cool blue in the stairwell. Large dusty-pink walls, pale lilac-blue upper walls, medium-blue doors and runner, rose-brown wood and coat. People small against the tall hall. Fine grain, no fog, no paper frame, no text of any kind.
+
+## 后期
+
+居中裁成 2.35:1；中文标题用系统宋体叠在中央粉柱上，保证列表宽图和分享方图都能读到。

@@ -1,0 +1,43 @@
+# Hotel Guest — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/hotel-guest/poster.jpg
+过程稿：outputs/hotel-guest/poster-v1.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fwes-anderson-poster/01a08f6a-c68e-7b01-b2b9-48d57b89c806/images/6.jpg
+尺寸：832 × 1248
+
+主标题：Hotel Guest
+副标题：A Room Was Waiting
+色板：Royal1
+
+## 生成（image_gen）
+
+Create one 2:3 Wes Anderson-style cinema poster: photographic subjects arranged in shallow pictorial space, reproduced as matte film-print key art with a color grade compatible with the Royal1 palette. Unify the imagery and lettering with a harmonious vintage color grade, fine organic grain and a soft, finely textured matte surface.
+
+The visual center is one adult Bactrian camel standing still on the front steps of a hotel, as if it has arrived to claim a reserved room. The camel faces the camera with a calm, ceremonial presence; both dark eyes meet the viewer. It is a true two-humped Bactrian: a forward hump over the shoulders and a separate rear hump over the hips, both plump and distinct along the spine; a long S-curved neck; a small head with a split upper lip and matched ears; a thick shaggy sandy-orange coat and a darker mane on the throat; four legs with correct camel joints and two-toed padded feet. A small brass hotel room key on a grey-blue tassel hangs from the leather halter — the only slightly odd, observable detail. No rider, no extra animals.
+
+Compose the whole poster around a strict vertical center axis and a straight-on frontal viewing direction, coordinating the camel, the hotel entrance and the title group through shared center alignment, even spacing and a cream sky band. Place the camel in the lower-middle of the frame, a complete standing animal occupying about two-fifths of the height, head on the center axis. Give the body a very slight three-quarter turn only so both humps remain separately readable, while the head stays square to the camera. For the hotel entrance that spans left and right, show its own structural symmetry from the front: cream facade, a central pair of vermillion double doors with matching glass panes and matching brass handles, matching sash windows, and a grey-blue fabric canopy with matching scalloped valance and matching support poles balanced around the door’s vertical axis. Preserve height, size and shape differences among separate objects: a single tan leather suitcase stands only on the left of the steps, lower than the camel’s knee; a small potted bay tree stands only on the right, taller than the suitcase and shorter than the canopy. Place a softly defocused photographic cream autumn sky above the roofline. Compress perspective so the forecourt is a shallow court, not a receding street. Reserve the cream sky above the canopy for a title-and-subtitle group, leaving enough room for the complete camel and the intact doors. Fill the poster edge to edge; no paper border, no frame.
+
+Keep the camel’s anatomy internally coherent: two humps only, four legs only, neck attached in front of the shoulders, knees and hocks in credible places, feet planted on the same step. Size the camel against the hotel doors: an adult Bactrian is about as tall at the hump as the door transom, large enough that it cannot easily walk through, not a toy and not larger than the building. Place all four feet on the stone step with short, soft contact shadows. Fit the layout by adjusting framing and spacing, preserving body lengths and the hotel’s frontal structure; shallow spatial staging does not squash the subjects.
+
+Render the camel’s shaggy coat, leather halter, brass key and suitcase with selective tactile cues and gentle volume. Keep the cream stucco, canopy fabric, window glass and distant sky softly defocused yet photographic. Give the stone steps a few broad soft surface cues and credible contact at the feet. Use broad soft afternoon light from the upper left, restrained detail contrast, soft cream highlights compatible with the chosen hues and gently lifted compressed shadows. Blend fine visible organic film grain with a low-contrast matte photographic-print texture throughout the imagery and ink. Keep the finish softly tactile at ordinary viewing size, without sharp noise speckles, glossy digital edges or heavy distressed paper.
+
+Base the color design on the Royal1 palette. Assign cream #FAEFD1 to the large hotel facade and the sky; grey-blue #899DA4 to the canopy, window frames and key tassel as a supporting field; vermillion #C93312 to the double doors as a concentrated architectural accent; and warm orange #DC863B to the camel’s coat as a substantial subject field. Lettering uses a derived deep vermillion ink mixed by deepening #C93312. Apply a palette-led gentle film-print grade: use soft cream highlights, restrained local contrast and gently lifted shadows, preserving the cream-versus-vermillion split and the orange camel against the grey-blue canopy, without washing the poster into brown. Keep natural material shading. The color names and codes guide the image; render no palette strip, swatches or color-code labels. No people, no cars, no palm trees, no pyramids, no film cameras, no credits, no dates, no paper frame.
+
+Main title, exactly: "Hotel Guest". Design it as expressive typographic artwork using rounded vintage serif letter construction and an arched wordmark that echoes the canopy. Build plump arched bowls, soft bracketed serifs, medium stroke contrast, open counters and slightly wide letter proportions. Draw a short leftward swash from the stem of H that curls once under Ho, and a descending tail from the g of Guest that loops once to the right without touching the canopy. Arrange the lettering along a gentle upward arch in the cream sky above the canopy, reading left to right from Hotel toward Guest, peaking between the two words; make Guest larger than Hotel. Give the complete composition about the upper fifth of the poster, spanning most of the sky width, in deep vermillion ink against the cream sky. Subtitle, exactly: "A Room Was Waiting", with quiet small-cap serif, even thin strokes, letter height about one-fifth of the title, lightly tracked, placed on a straight centered line just beneath the arch and still in the sky, same deep vermillion ink at lighter visual weight. Keep spelling, reading sequence and essential letter structure clear; the lettering may be visibly expressive rather than set on one straight baseline.
+
+## 修正 1（image_edit）
+
+Keep the same 2:3 Wes Anderson cinema poster, the same two-humped Bactrian camel, hotel key on the tassel, vermillion double doors, grey-blue canopy, cream facade, suitcase, topiary, and the exact lettering. Change only the cream paper border.
+
+Remove the cream paper border and any separate cream margin so the photograph fills the full poster edge to edge. Place the main title Hotel Guest as the same arched rounded vintage serif wordmark directly in the cream sky above the canopy, reading left to right, Guest larger than Hotel, with the H swash and the g tail, exact spelling. Place the subtitle A Room Was Waiting as the same straight line just under the arch in that sky. Deep vermillion ink belonging to the same warm matte film-print as the photograph, with fine grain, not a sharp digital overlay.
+
+Do not add a frame, credits, people, extra text, or extra props. Do not restyle the camel, the hotel, or the title drawing. Keep shallow pictorial space, soft cream highlights, gently lifted shadows, and a unified Royal1 cream-vermillion-orange film-print grade.
+
+## 修正 2（image_edit）
+
+This poster still has a cream photo-mat / paper frame around all four edges. Remove that mat completely so the scene is full-bleed.
+
+Continue the cream sky, the hotel walls, and the grey pavement all the way to the four edges of the 2:3 frame. Do not leave any inset border, white margin, beige mat, or postcard frame.
+
+Keep everything inside the scene unchanged: the same two-humped camel, key tassel, vermillion doors, grey-blue canopy, suitcase, topiary, and the exact titles Hotel Guest and A Room Was Waiting in the same arched vermillion lettering. Do not restyle, do not add people or credits.

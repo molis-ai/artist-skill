@@ -1,0 +1,31 @@
+# The Mountain Hotel — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-mountain-hotel/poster.jpg
+过程稿：outputs/the-mountain-hotel/poster-v1.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fartist-skill/01a09070-79cd-70d3-907d-a0f42e88d672/images/13.jpg
+尺寸：832 × 1248
+
+主标题：The Mountain Hotel
+副标题：A Carriage Is Waiting in the Drive
+色板：GrandBudapest2
+
+## 生成（image_gen）
+
+Create one 2:3 vertical movie poster in Wes Anderson's live-action visual style: a formally staged 1930s alpine afternoon, with period art direction, deliberate color design and a gently photochemical finish.
+
+A mountain hotel stands in the middle distance; a single horse-drawn carriage waits on the empty drive in front of it, as if no one has come out to meet it. Photograph this arrangement straight on, from far enough away that the complete hotel facade, the carriage and the mountain ridge are all readable. Level camera, calm central axis through the hotel. The hotel is a real 1930s grand house, not a wedding-cake copy of a famous film building: a wide pink stucco facade with a balanced cornice, matching rows of windows and a central entrance. The facade spanning left and right shows its own structural symmetry from the front. Behind it, a long even mountain ridge fills the width of the frame, higher than the roof. A pale sky band above the ridge is left open for the title.
+
+In the lower third, on the pale gravel drive, one closed wooden carriage stands slightly left of the center line, smaller than the hotel, its four wheels planted on the ground. Two horses stand still in harness, each with four legs and hooves on the same drive, heads toward the camera in a composed animal calm. No rider, no extra carriages, no crowd. A low dark tree line sits to the right of the hotel, a different height from the carriage. Keep the scale honest: an adult hotel, a real carriage, mountains larger than both.
+
+Base the palette on GrandBudapest2. Assign dusty pink #E6A0C4 to the large hotel facade; pale lilac-blue #C6CDF7 to the sky; medium blue #7294D4 to the mountain mass and the window frames; warm dusty rose-brown #D8A499 to the carriage body and the horses’ harness wood. Derive a deep purple-blue ink from #7294D4 for the lettering. Reproduce these colors through a coherent vintage color-negative and print response: warm ivory highlights on plaster and gravel, gently cool blue in the mountain shadow, mellow pink walls and full but controlled blues. Soft late-afternoon light, highlights rolled off smoothly, local texture contrast quieter than the large color fields. Stucco, wood, horse coat, gravel and distant rock remain distinct without a contemporary travel-brochure finish. Fine integrated grain, no distressed paper, no fog, no snowstorm.
+
+Place the exact title "The Mountain Hotel" in the upper sky as one gently arched custom rounded-serif wordmark, about three quarters of the image width. Use plump, softly bracketed serifs, open counters, moderate stroke contrast, a short leftward swash from the T of The, and a modest descending tail from the l of Hotel. Maintain natural word spacing. The ink is that deep purple-blue, placed directly on the sky with no banner or box. Below it, set the exact subtitle "A CARRIAGE IS WAITING IN THE DRIVE" in quiet, lightly spaced small sans-serif capitals, around one fifth of the main letter height. Comfortable clear interval above the mountain ridge. Flat ink, no shadow, no extra text, no hotel name on the building, no credits.
+
+## 修正 1（image_edit）
+
+Keep the same 2:3 Wes Anderson poster, the same pink mountain hotel, blue mountains, gravel drive, rose-brown carriage, and the exact lettering "The Mountain Hotel" / "A CARRIAGE IS WAITING IN THE DRIVE".
+
+Change only the two horses: give them natural chestnut coats and dark manes and tails. They remain standing in harness, four legs each, hooves on the drive, facing the camera. Do not paint them pink to match the hotel.
+
+Do not restyle the hotel, mountains, carriage, sky, or title drawing. Do not add people, extra carriages, snow, credits, or a frame.

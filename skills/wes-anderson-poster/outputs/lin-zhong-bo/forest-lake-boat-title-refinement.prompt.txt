@@ -1,0 +1,16 @@
+第一轮实际成图后：摄影/空间/景物配色通过本轮自查；标题仍像常规宋体，进行一次仅改标题的生成编辑。
+使用内置 image_gen；编辑目标为本轮第一张森林湖船海报。
+
+Edit the supplied poster. Keep its photographed scene intact: same single wooden boat, hull and oar, waterline, ripples, reflection, layered forest, distant hills, warm upper-left daylight and the existing natural slate-blue / olive / chestnut palette. Do not repaint the scene or add any object.
+
+Replace ONLY the existing Chinese title lettering with a genuinely bespoke, graceful film-title wordmark. Exact text remains "林中泊", one three-character line. The current title looks like ordinary Ming/Song typesetting; redesign the actual stroke shapes rather than adding effects. Aim for precise hand-lettered vintage storybook cinema-title craft and quiet character, as an original lettering design for the lake setting.
+
+CONSTRUCTION:
+Use a unified narrow, flowing, human-drawn Chinese skeleton with medium-to-fine strokes and modest thick/thin contrast, roughly 2:1 rather than razor-thin horizontals against fat verticals. Preserve every character and all radicals completely, including the three water dots and 白 in 泊.
+Create an original title silhouette: subtly tall stems; gently curved horizontal strokes with restrained tapered, rounded endings instead of triangular font serifs; smooth controlled transitions at corners. In 林, let the two outer lower sweeping strokes open gently like the bow shape of the boat, without changing the 木 radicals. Repeat the same quiet curve vocabulary in the other two characters' terminals so the whole title feels authored, not one decorated glyph. No literal leaves, boats, waves, branches or pictograms embedded in characters.
+Let the whole three-character wordmark sit on a barely arched, coherent baseline (a shallow shared arc, not three independently tilted letters). All characters have coherent scale and upright axes. Keep airy internal counters and precise small gaps between characters.
+
+LAYOUT:
+Reduce the title's overall width slightly to around 40% of the poster width, height around 8% of poster height, staying in the existing upper sky title region with abundant air. Same muted deep brick/oxblood ink family, a little darker than the current lettering. Render as perfectly flat printed ink. No drop shadow, bevel, extrusion, outline, glow, foil, papercut/sticker thickness or weathering.
+The result must be legible at a glance, refined and noticeably hand-designed, without becoming oversized calligraphy or a heavy block-font treatment.
+There must be exactly these three characters once: 林中泊. No other text. Preserve all non-title image content.

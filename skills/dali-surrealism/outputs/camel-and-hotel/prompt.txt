@@ -1,0 +1,7 @@
+# 骆驼和酒店（达利）— 归档说明
+
+画幅：横版 3:2 无字油画
+成图：outputs/camel-and-hotel/poster.jpg
+过程稿：outputs/camel-and-hotel/poster-v1.jpg、poster-v2.jpg
+
+2026-09-11 在 artist-skill 会话中新生成：1 次生成、2 次定向编辑。每张图对应同名 `.prompt.txt`。

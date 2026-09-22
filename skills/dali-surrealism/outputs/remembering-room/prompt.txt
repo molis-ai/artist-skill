@@ -1,0 +1,7 @@
+# 记忆的房间（达利）— 归档说明
+
+画幅：横版无字油画
+成图：outputs/remembering-room/poster.png
+过程稿：outputs/remembering-room/poster-v1.png
+
+从 /Users/yijunwang/code/dali-surrealism/outputs/ 移入。当时的完整生成提示词未另存。

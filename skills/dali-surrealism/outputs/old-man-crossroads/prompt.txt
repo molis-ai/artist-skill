@@ -1,0 +1,6 @@
+# 老人与软路（达利）— 归档说明
+
+画幅：横版无字油画
+成图：outputs/old-man-crossroads/poster.png
+
+从 Cursor 资源库移入（原文件名 dali-old-man-crossroads.png）。当时的完整生成提示词未另存。

@@ -1,0 +1,16 @@
+# 骆驼在城市里（达利）— 实际使用的提示词
+
+画幅：3:2 横版
+成图：outputs/camel-in-the-city/poster.jpg
+过程稿：outputs/camel-in-the-city/poster-v1.jpg
+Cursor 另一稿：outputs/camel-in-the-city/poster-cursor.png
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fwes-anderson-poster/01a08ea8-d1f7-7332-a2fb-4b9d1de02018/images/2.jpg
+无字油画，不是海报。
+
+## 生成（image_gen）
+
+A Salvador Dalí 1930s hallucinatory oil painting of a colossal single-humped dromedary occupying a deserted Mediterranean city plaza. Precisely drawn transformed silhouettes, smooth sculptural tonal modeling, and broad quiet painted planes. The camel is the height of the surrounding palazzi, still readable as one animal: long neck, calm downward-turned head, one hump, four legs. Those legs are stretched into impossibly thin stone-column shafts ending in small architectural plinths that press into the cobbles, so the heavy body seems barely supported. Along the sunlit flank the warm ochre hide continuously becomes pale stucco masonry without a seam: a few shuttered windows and a tight cluster of rooftops and a tiny dome grow from the hump, city and animal sharing one volume. The camel stands left of center; a wide empty plaza and a receding street of pale facades open to the right toward a distant pale sea-horizon. Late-afternoon raking light from the right: sunlit ochre, bone-white and warm hide against cool blue-grey street shadows; the darkest notes sit in the eye, the nostril, and the cavity under the belly. Fine drawing is reserved for the eye and lashes, the hide-to-masonry transition, and the plinths' contact with the pavement; the plaza, distant walls, and sky remain large quiet painted planes with slow tonal shifts. No text, no signature, no extra figures.
+
+## 修正 1（image_edit）
+
+Keep the same composition, empty receding street, sea horizon, late-afternoon raking light, and the camel’s head and neck. Change two transformations only. First, the lower legs themselves become the stone-column shafts as one continuous body: no separate white columns standing beside organic legs; each leg tapers from camel flesh at the shoulder into a thin fluted stone shaft ending in a small plinth that presses into the cobbles. Second, the hill-town is not a miniature sitting on the hump: the hump’s own volume becomes pale stucco walls, a few green-shuttered windows opening in the sunlit flank where hide turns into masonry, rooftops and a small bell tower growing from that same volume without a seam. Soften the cobblestone plaza into a quieter painted plane with less stone-by-stone texture. No text, no new figures.

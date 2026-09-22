@@ -1,0 +1,29 @@
+# The Late Number — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-late-number/poster.jpg
+过程稿：outputs/the-late-number/poster-v1.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fartist-skill/01a09070-79cd-70d3-907d-a0f42e88d672/images/3.jpg
+尺寸：832 × 1248
+
+主标题：The Late Number
+副标题：She Is Still Holding the Note
+色板：Zissou1
+
+## 生成（image_gen）
+
+Create one 2:3 vertical movie poster in Wes Anderson's live-action visual style: a formally staged late-night moment in a 1960s hotel bathroom, with period art direction, deliberate color design and a gently photochemical finish.
+
+A nightclub singer stands in a dry clawfoot bathtub as if it were a tiny stage, still holding a vintage microphone after the set. Photograph this arrangement straight on from the bathroom doorway, with a level camera and a calm central axis through the singer and the tub. The complete bathroom is a shallow frontal room: glossy blue subway-tiled walls, a centered white clawfoot tub with matching feet, a chrome shower-curtain rod spanning left to right with its own even curve, and a pale ceiling band left open for the title. The singer is a complete standing adult in the lower-middle of the frame, feet planted inside the tub. She wears a closed 1960s silk dressing gown, hair neatly set, and meets the camera with a composed, unreadable expression, as if still holding a long note. One hand holds a small chrome microphone near her chest, not covering her face. The yellow shower curtain is drawn fully to the left like a theatre drape, leaving the right half of the rod empty. A pedestal sink with a red lipstick standing on its porcelain rim sits to the left, lower than her shoulders; a single folded towel hangs from one hook on the right, a different height from the sink. Keep the singer, tub and tiled wall clearly scaled together: an adult standing in a real bathtub, not a toy and not filling the whole room.
+
+Base the palette on Zissou1. Assign marine blue #3B9AB2 to the large tiled walls; cyan #78B7C5 to the upper tiles, window recess or curtain lining; warm yellow #EBCC2A to the substantial shower curtain, with deeper gold #E1AF00 in the dressing-gown silk; concentrated red #F21A00 only on the microphone grille and the lipstick. Derive a deep teal ink from #3B9AB2 for the lettering. Reproduce these colors through a coherent vintage color-negative and print response: warm ivory highlights on silk and porcelain, gently cool blue-green in the tile recesses, mellow yellow curtain and full but controlled blues. Soft interior bathroom light from above and slightly in front, highlights rolled off smoothly, local texture contrast quieter than the large color fields. Silk, chrome, porcelain, enamel and tile remain distinct without a contemporary spa-brochure finish. Fine integrated grain, no distressed paper, no steam veil.
+
+Place the exact title "The Late Number" in the upper tile band as one gently arched custom lyrical-script wordmark, about three quarters of the image width. Use slender pointed script with moderate contrast, open counters, a long incoming swash on the L of Late, and a small descending loop on the r of Number. Keep capital-and-lowercase connections and natural word spacing. The ink is that deep teal, integrated with the print response. Below it, set the exact subtitle "SHE IS STILL HOLDING THE NOTE" in quiet, lightly spaced small sans-serif capitals, around one fifth of the main letter height. Comfortable clear interval above the shower rod. Flat ink, no shadow, no extra text.
+
+## 修正 1（image_edit）
+
+Keep the same 2:3 Wes Anderson cinema poster, the same singer standing in the dry clawfoot tub, yellow shower curtain, blue tiles, sink, towel, microphone, and the exact lettering.
+
+Change only the title treatment: remove the translucent white horizontal banner, frosted strip, or paper overlay behind the words. Place the exact title "The Late Number" as the same arched lyrical-script wordmark directly on the cream ceiling, and the exact subtitle "SHE IS STILL HOLDING THE NOTE" as the same quiet small capitals just beneath it, still on the ceiling. Deep teal flat ink belonging to the same photochemical print as the photograph, no shadow, no box, no extra text.
+
+Do not restyle the singer, bathroom, colors, or title drawing. Do not add steam, extra props, credits, or a frame.

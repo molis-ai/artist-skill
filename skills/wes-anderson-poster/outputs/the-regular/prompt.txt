@@ -1,0 +1,47 @@
+# The Regular — 实际使用的提示词
+
+画幅：2:3 竖版
+成图：outputs/the-regular/poster.jpg
+过程稿：outputs/the-regular/poster-v1.jpg
+源文件：/Users/yijunwang/.grok/sessions/%2FUsers%2Fyijunwang%2Fcode%2Fwes-anderson-poster/01a08f6a-c68e-7b01-b2b9-48d57b89c806/images/9.jpg
+尺寸：832 × 1248
+
+主标题：The Regular
+副标题：He Ordered the Usual
+色板：GrandBudapest2
+
+## 生成（image_gen）
+
+Create one 2:3 Wes Anderson-style cinema poster: photographic subjects arranged in shallow pictorial space, reproduced as matte film-print key art with a color grade compatible with the GrandBudapest2 palette. Unify the imagery and lettering with a harmonious vintage color grade, fine organic grain and a soft, finely textured matte surface. Full-bleed to all four edges; no paper mat, no cream frame, no postcard border.
+
+The visual center is one East Asian man in his early thirties sitting alone in a cafe, paused with a coffee cup as if he drinks here every afternoon. He looks directly into the camera with a composed, restrained expression and deliberately posed presence. He wears a warm dusty-rose-brown wool jacket over a pale shirt. Both hands hold a small white porcelain cup and saucer at chest height, the cup not hiding his mouth; he is not looking down at the cup. The only slightly odd, observable detail: a single unused white sugar cube sits on the saucer beside the spoon. No other customers.
+
+Compose the whole poster around a strict vertical center axis and a straight-on frontal viewing direction, coordinating the man, the cafe booth and window, and the title group through shared center alignment, even spacing and a clear upper wall band. Place the man seated in the lower-middle of the frame, a complete seated figure occupying about two-fifths of the height, head on the center axis; show head, torso, lap, knees and shoes. For the cafe interior that spans left and right behind him, show its own structural symmetry from the front: a pink upholstered banquette with matching cushions, a large divided window with matching panes and matching blue frames, and equal wall panels balanced around the vertical axis through the man. A round cream pendant lamp hangs on that same axis above his head. Preserve height, size and shape differences among separate objects: an empty bentwood chair stands only at right of the table, shorter than the man; a small potted fern sits only at left on a side ledge, lower than the chair. The small square marble table sits in front of him at seated midriff height. Compress perspective so the cafe is a shallow room, not a receding restaurant. Reserve the pale lavender wall and upper window above the lamp for a title-and-subtitle group, leaving enough room for the complete seated man and the intact banquette.
+
+Keep anatomy internally coherent: adult male proportions, natural head-to-body scale, waist and knees in credible places on the chair, both hands wrapping the cup with visible thumbs and a palm-sized cup. Size him against the table, chair back and window sill so he is a person sitting in a cafe, not a giant. Place his shoes on the floor with short, soft contact shadows, and the chair legs on the same floor. Fit the layout by adjusting framing and spacing, preserving body lengths; shallow spatial staging does not squash the subjects.
+
+Render wool jacket, porcelain, skin and hair with selective tactile cues and gentle volume. Keep the banquette fabric, window glass and distant street softly defocused yet photographic. Give the marble table a few broad soft surface cues and credible contact where the saucer sits. Use broad soft light from the upper left with a gentler window fill from behind, restrained detail contrast, soft lilac-cream highlights compatible with the chosen hues and gently lifted compressed shadows. Blend fine visible organic film grain with a low-contrast matte photographic-print texture throughout the imagery and ink. Keep the finish softly tactile at ordinary viewing size, without sharp noise speckles, glossy digital edges or heavy distressed paper.
+
+Base the color design on the GrandBudapest2 palette. Assign dusty pink #E6A0C4 to the large banquette and side walls; pale lavender #C6CDF7 to the upper wall and the sky in the window as a supporting field; warm powder-brown #D8A499 to the man’s jacket and the wooden chair; and medium blue #7294D4 to the window frames and a thin stripe on the cup. Lettering uses a derived deep plum-blue ink mixed by deepening #7294D4. Apply a palette-led gentle film-print grade: use soft lilac-cream highlights, restrained local contrast and gently lifted shadows, preserving the pink-versus-lavender split and the blue frames against pink upholstery, without washing the poster into brown or grey. Keep natural material shading. The color names and codes guide the image; render no palette strip, swatches or color-code labels. No extra people, no newspapers, no film cameras, no cafe-name lettering on the walls, no credits, no dates, no paper frame.
+
+Main title, exactly: "The Regular". Design it as expressive typographic artwork using rounded vintage serif letter construction and circular typography around the pendant lamp. Build plump arched bowls, soft bracketed serifs, medium stroke contrast, open counters and slightly wide letter proportions. Draw a short inward swash on the T of The and a modest descending tail on the g of Regular that follows the circle without touching the lamp. Arrange the lettering along an incomplete circle around the cream lamp, reading clockwise from the left (about eight o’clock) over the top to the right (about four o’clock), leaving the bottom of the circle open above the man’s head. Letters tilt with the curve. Make Regular larger than The. Give the circular composition a diameter of about two-fifths of the canvas width, modest letter height about one-twelfth of the canvas, centered on the same vertical axis as the man and the lamp, in deep plum-blue ink against the pale lavender wall. Subtitle, exactly: "He Ordered the Usual", with quiet small-cap serif, even thin strokes, letter height about one-fifth of the title, lightly tracked, placed on a straight centered line in the open bottom of the circle, still above the man’s head, same deep plum-blue ink at lighter visual weight. Keep spelling, reading sequence and essential letter structure clear; the lettering may be visibly expressive rather than set on one straight baseline.
+
+## 修正 1（image_edit）
+
+Keep the same 2:3 Wes Anderson cafe poster: the same East Asian man, dusty-rose jacket, coffee cup, pink banquette, blue window frames, cream pendant lamp, fern, empty wooden chair, and marble table. Change only the lettering and remove the color codes.
+
+Delete every hex code, hash number, color label, and the text fragments like #C64CDF7 and #C6CDF7. Nothing on the poster may show a color code.
+
+Main title, exactly: "The Regular". Draw it as plump rounded vintage serif lettering on an incomplete circle around the cream lamp, reading clockwise from the left over the top to the right, leaving the bottom of the circle open above the man's head. "Regular" larger than "The". Deep plum-blue ink on the pale lavender wall. No other words on that circle.
+
+Subtitle, exactly: "He Ordered the Usual", quiet small-cap serif on a straight centered line in the open bottom of the circle, still above his head, same deep plum-blue ink.
+
+Keep spelling exact. Do not add a paper frame, credits, extra people, or extra text. Do not restyle the man, the cafe, or the lamp. Full-bleed to the edges. Same GrandBudapest2 pink, lavender and blue film-print grade.
+
+## 修正 2（image_edit）
+
+Keep the same 2:3 Wes Anderson cafe poster, the same man, pink banquette, blue windows, lamp, fern, coffee cup in his hands, and the exact arched title The Regular with subtitle He Ordered the Usual. Change only the foreground clutter.
+
+Remove the empty wooden chair that sits in the foreground in front of the table, so the marble table, the man's lap, knees and shoes are fully visible. Do not replace it with another object. Remove the extra empty saucer that sits on the table; he already holds a cup and saucer. Leave a single unused sugar cube on the saucer he is holding if it is already there.
+
+Do not restyle the man, the cafe, or the lettering. Do not add people, a paper frame, credits, or extra text. Keep full-bleed edges and the same pink-lavender-blue film-print grade.
